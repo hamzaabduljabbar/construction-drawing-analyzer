@@ -1,0 +1,7 @@
+This folder is created by the Drawing Analyzer when you run it on a set of construction drawings.
+
+Contents (generated, not committed to git):
+- drawings.md              Master register of the drawing set
+- sheet-classification.md  Every sheet classified by type and key elements
+- cross-reference.md       Cross-reference map between sheets
+- symbol-library.md        All symbols, line types, and abbreviations from legends

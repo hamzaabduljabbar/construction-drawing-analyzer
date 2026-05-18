@@ -1,0 +1,8 @@
+This folder is created by the Drawing Analyzer when you run it on a set of construction drawings.
+
+Contents (generated, not committed to git):
+- SHEET-001.pdf    Individual sheet PDF
+- SHEET-001.txt    Extracted text/vector layer from the sheet
+- SHEET-001.png    Rendered image at optimal Claude resolution
+- SHEET-002.pdf
+- ...
