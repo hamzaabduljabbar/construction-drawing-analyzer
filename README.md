@@ -2,7 +2,7 @@
 
 Pre-process a set of construction drawing PDFs into structured text indexes so Claude can answer questions **faster, cheaper, and more accurately**.
 
-Built by [Hamza Jabbar](https://hamzajabbar.online) | Smart Civil AI
+Built by [Hamza Abdul Jabbar](https://hamzajabbar.online) | AutoConst
 
 ---
 
