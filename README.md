@@ -1,5 +1,7 @@
 # Drawing Analyzer — Claude AI Skill for Construction Drawings
 
+THIS SKILL AHS BEEN ARCHIVED> KINDLY USE THE OTHER SKILL THA CONVERTS PDF DRAWING IN TO VECTOR DATABASE
+
 Pre-process a set of construction drawing PDFs into structured text indexes so Claude can answer questions **faster, cheaper, and more accurately**.
 
 Built by [Hamza Abdul Jabbar](https://hamzajabbar.online) | AutoConst
